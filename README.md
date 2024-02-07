@@ -1,8 +1,5 @@
 # Wind Chill Calculator
 
-## Author
-Humphrey Boahen
-
 ## Overview
 This Java program calculates the wind chill index based on user-provided temperature and wind speed inputs. The wind chill index is a measure of how cold it feels when the effects of temperature and wind speed are combined.
 
